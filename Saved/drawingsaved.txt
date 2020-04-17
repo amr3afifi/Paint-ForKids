@@ -1,0 +1,19 @@
+3
+Rectangle
+18467
+471 91
+1000 268
+12
+BLUE
+1
+ORANGE
+
+Triangle
+2
+99 171
+277 86
+127 72
+3
+BLUE
+0
+

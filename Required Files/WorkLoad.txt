@@ -1,0 +1,7 @@
+1.Amr Hesham Mohamed Afifi            Work= Copy,Cut,Paste,Chng BorderWidth
+
+2.Hussein Hassan Hussein Kira         Work= Save,Load,Select
+
+3.Name: Omar Essam El-Din Hassan      Work= Change Fill,Draw,UI colors,Pick&hide both,Pick&hide (color),Delete
+
+4.Name: Omar Mamdouh Mohamed Ali      Work= Add figures,Switch to Play and Draw modes,Exit,Pick&hide (type),Rotate,Resize
